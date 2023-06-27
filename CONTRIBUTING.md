@@ -32,8 +32,8 @@ When submitting code contributions, please adhere to the following guidelines:
 ## Communication
 If you have any questions, need guidance, or want to discuss your ideas before contributing, feel free to reach out to us through the following channels:
 
-Slack: #happybara-contributors
 Email: contributors@happybara.com
+
 We value and appreciate your contributions and will do our best to provide timely feedback and support throughout the process.
 
 Thank you for being a part of the Happybara community and helping us make capybara dating an enjoyable and delightful experience!
