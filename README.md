@@ -36,3 +36,12 @@ Nous sommes ravis d'accueillir des contributions de la communauté capybara pour
 
 ## Remarque
 Happybara est une application exclusive aux capybaras. Tous les profils non capybara seront retirés pour préserver l'unicité de notre communauté.
+
+
+## Authors
+
+- [@Keissy](https://www.github.com/kccorp)
+- [@Camille](https://www.github.com/kccorp) 
+- [@Milan](https://www.github.com/kccorp)
+
+
