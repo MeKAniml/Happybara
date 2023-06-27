@@ -1,6 +1,7 @@
 # Happybara - Une nouvelle expérience de rencontres pour les capybaras
 
-![image](https://github.com/MeKAniml/Happybara/assets/85285247/d5af5cd8-9b5a-4d2d-aa64-ba4e5e547175)
+
+![st_small_845x845-pad_1000x1000_f8f8f8 u4-removebg-preview](https://github.com/MeKAniml/Happybara/assets/85285247/62187b4a-d00f-4b51-8a44-ab0f46f87ff2)
 
 
 ## Description
