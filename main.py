@@ -1,0 +1,1 @@
+printf("Buy thing OK")
