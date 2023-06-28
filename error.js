@@ -1,5 +1,5 @@
 // Code avec une erreur intentionnelle
-function addNumbers(a, b) {
+function addNumbers(a, b, c) {
   return a + b;
 }
 
