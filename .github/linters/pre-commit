@@ -19,13 +19,15 @@ fi
 
 for FILE in $STAGED_FILES
 do
-  eslint --quiet --fix "$FILE"
-
-  if [[ "$?" == 0 ]]; then
-    echo "ESLint Passed: $FILE"
-  else
-    echo "ESLint Failed: $FILE"
-    PASS=false
+  if [["$FILE" != ".eslintrc.js"]]; then
+    eslint --quiet --fix "$FILE"
+  
+    if [[ "$?" == 0 ]]; then
+      echo "ESLint Passed: $FILE"
+    else
+      echo "ESLint Failed: $FILE"
+      PASS=false
+    fi
   fi
 done
 
