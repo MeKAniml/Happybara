@@ -9,8 +9,12 @@ name: Lint Code Base Verify JS
 on:
   push:
     branches: [ "main" ]
+    paths-ignore:
+      - 'node_modules/'
   pull_request:
     branches: [ "main" ]
+    paths-ignore:
+      - 'node_modules/'
 jobs:
   run-lint:
     runs-on: ubuntu-latest
